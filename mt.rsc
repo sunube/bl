@@ -1,4 +1,4 @@
-# Generated on Tue Jan 16 23:35:01 CET 2024
+# Generated on Tue Jan 16 23:36:01 CET 2024
 /ip firewall address-list
 add list=sunube-blacklist address=167.205.50.41
 add list=sunube-blacklist address=103.163.161.110
@@ -153,9 +153,9 @@ add list=sunube-blacklist address=94.129.71.116
 add list=sunube-blacklist address=170.187.225.231
 add list=sunube-blacklist address=180.188.16.244
 add list=sunube-blacklist address=202.79.174.178
+add list=sunube-blacklist address=36.67.73.115
 add list=sunube-blacklist address=82.64.144.33
 add list=sunube-blacklist address=65.75.209.143
-add list=sunube-blacklist address=36.67.73.115
 add list=sunube-blacklist address=170.64.218.68
 add list=sunube-blacklist address=93.186.198.102
 add list=sunube-blacklist address=172.93.102.112
@@ -198,11 +198,11 @@ add list=sunube-blacklist address=178.37.6.85
 add list=sunube-blacklist address=94.154.23.36
 add list=sunube-blacklist address=81.177.135.201
 add list=sunube-blacklist address=162.241.85.210
+add list=sunube-blacklist address=144.217.17.4
 add list=sunube-blacklist address=103.88.233.151
 add list=sunube-blacklist address=139.99.31.126
 add list=sunube-blacklist address=82.47.146.210
 add list=sunube-blacklist address=185.194.176.7
-add list=sunube-blacklist address=144.217.17.4
 add list=sunube-blacklist address=185.119.57.73
 add list=sunube-blacklist address=23.26.247.69
 add list=sunube-blacklist address=101.32.186.86
@@ -607,6 +607,7 @@ add list=sunube-blacklist address=73.255.97.86
 add list=sunube-blacklist address=20.45.55.150
 add list=sunube-blacklist address=78.183.81.57
 add list=sunube-blacklist address=45.141.149.49
+add list=sunube-blacklist address=185.50.51.145
 add list=sunube-blacklist address=20.226.80.166
 add list=sunube-blacklist address=68.82.128.172
 add list=sunube-blacklist address=104.235.37.184
@@ -721,7 +722,6 @@ add list=sunube-blacklist address=71.237.168.241
 add list=sunube-blacklist address=67.208.53.179
 add list=sunube-blacklist address=89.64.42.126
 add list=sunube-blacklist address=91.236.72.253
-add list=sunube-blacklist address=185.50.51.145
 add list=sunube-blacklist address=5.173.222.128
 add list=sunube-blacklist address=71.26.232.225
 add list=sunube-blacklist address=81.30.142.29
@@ -845,6 +845,7 @@ add list=sunube-blacklist address=172.172.141.24
 add list=sunube-blacklist address=176.106.33.179
 add list=sunube-blacklist address=80.233.52.86
 add list=sunube-blacklist address=45.159.4.6
+add list=sunube-blacklist address=185.191.245.166
 add list=sunube-blacklist address=31.135.162.118
 add list=sunube-blacklist address=23.227.38.65
 add list=sunube-blacklist address=89.228.45.150
@@ -915,6 +916,7 @@ add list=sunube-blacklist address=83.26.237.98
 add list=sunube-blacklist address=121.204.249.211
 add list=sunube-blacklist address=45.134.212.200
 add list=sunube-blacklist address=79.184.140.133
+add list=sunube-blacklist address=149.224.61.235
 add list=sunube-blacklist address=136.49.64.31
 add list=sunube-blacklist address=172.212.140.107
 add list=sunube-blacklist address=92.223.80.88
@@ -1014,6 +1016,7 @@ add list=sunube-blacklist address=78.129.140.183
 add list=sunube-blacklist address=79.184.242.224
 add list=sunube-blacklist address=79.185.51.75
 add list=sunube-blacklist address=185.192.243.218
+add list=sunube-blacklist address=89.39.107.198
 add list=sunube-blacklist address=20.245.227.118
 add list=sunube-blacklist address=213.134.170.22
 add list=sunube-blacklist address=85.115.70.114
@@ -1137,7 +1140,6 @@ add list=sunube-blacklist address=67.237.58.106
 add list=sunube-blacklist address=51.81.119.2
 add list=sunube-blacklist address=66.22.243.157
 add list=sunube-blacklist address=81.15.191.242
-add list=sunube-blacklist address=149.224.61.235
 add list=sunube-blacklist address=195.136.175.230
 add list=sunube-blacklist address=109.132.230.119
 add list=sunube-blacklist address=35.135.28.9
@@ -1447,9 +1449,9 @@ add list=sunube-blacklist address=46.205.194.188
 add list=sunube-blacklist address=51.79.134.205
 add list=sunube-blacklist address=95.49.190.158
 add list=sunube-blacklist address=83.28.77.21
+add list=sunube-blacklist address=140.82.121.3
 add list=sunube-blacklist address=103.224.92.95
 add list=sunube-blacklist address=109.207.63.157
-add list=sunube-blacklist address=140.82.121.3
 add list=sunube-blacklist address=52.27.104.2
 add list=sunube-blacklist address=61.147.77.34
 add list=sunube-blacklist address=104.172.121.148
@@ -1720,6 +1722,7 @@ add list=sunube-blacklist address=85.115.79.4
 add list=sunube-blacklist address=185.107.193.148
 add list=sunube-blacklist address=64.121.103.81
 add list=sunube-blacklist address=178.43.222.178
+add list=sunube-blacklist address=83.218.98.243
 add list=sunube-blacklist address=89.64.57.201
 add list=sunube-blacklist address=193.56.104.193
 add list=sunube-blacklist address=86.184.226.71
@@ -1890,6 +1893,7 @@ add list=sunube-blacklist address=65.182.125.34
 add list=sunube-blacklist address=138.204.76.178
 add list=sunube-blacklist address=138.204.76.212
 add list=sunube-blacklist address=37.47.182.12
+add list=sunube-blacklist address=4.151.192.227
 add list=sunube-blacklist address=88.136.141.62
 add list=sunube-blacklist address=109.243.64.96
 add list=sunube-blacklist address=138.204.76.10
@@ -2058,7 +2062,6 @@ add list=sunube-blacklist address=31.0.120.113
 add list=sunube-blacklist address=154.212.147.151
 add list=sunube-blacklist address=185.130.61.68
 add list=sunube-blacklist address=189.1.173.7
-add list=sunube-blacklist address=83.218.98.243
 add list=sunube-blacklist address=91.123.181.234
 add list=sunube-blacklist address=46.204.108.75
 add list=sunube-blacklist address=51.77.48.97
@@ -2079,7 +2082,7 @@ add list=sunube-blacklist address=91.236.84.46
 add list=sunube-blacklist address=193.243.155.76
 add list=sunube-blacklist address=203.132.26.100
 add list=sunube-blacklist address=34.210.181.94
-add list=sunube-blacklist address=89.39.107.198
+add list=sunube-blacklist address=89.64.8.33
 add list=sunube-blacklist address=149.248.42.188
 add list=sunube-blacklist address=177.39.10.122
 add list=sunube-blacklist address=37.128.28.83
@@ -2183,7 +2186,6 @@ add list=sunube-blacklist address=188.71.196.170
 add list=sunube-blacklist address=73.84.251.147
 add list=sunube-blacklist address=76.38.174.133
 add list=sunube-blacklist address=85.115.78.29
-add list=sunube-blacklist address=89.64.8.33
 add list=sunube-blacklist address=185.23.151.64
 add list=sunube-blacklist address=185.191.245.170
 add list=sunube-blacklist address=188.146.70.61
@@ -2700,7 +2702,6 @@ add list=sunube-blacklist address=31.0.62.49
 add list=sunube-blacklist address=71.123.35.140
 add list=sunube-blacklist address=88.161.88.61
 add list=sunube-blacklist address=91.199.212.73
-add list=sunube-blacklist address=4.151.192.227
 add list=sunube-blacklist address=77.222.241.28
 add list=sunube-blacklist address=125.161.42.68
 add list=sunube-blacklist address=168.194.164.248
@@ -2715,6 +2716,7 @@ add list=sunube-blacklist address=103.106.191.15
 add list=sunube-blacklist address=103.88.233.57
 add list=sunube-blacklist address=114.37.29.187
 add list=sunube-blacklist address=172.191.231.208
+add list=sunube-blacklist address=46.174.48.116
 add list=sunube-blacklist address=5.173.103.183
 add list=sunube-blacklist address=8.212.42.141
 add list=sunube-blacklist address=94.254.232.2
@@ -5043,6 +5045,7 @@ add list=sunube-blacklist address=193.23.160.54
 add list=sunube-blacklist address=20.165.33.234
 add list=sunube-blacklist address=201.219.248.52
 add list=sunube-blacklist address=201.219.248.74
+add list=sunube-blacklist address=23.121.119.43
 add list=sunube-blacklist address=43.153.9.176
 add list=sunube-blacklist address=45.226.108.194
 add list=sunube-blacklist address=45.236.96.38
@@ -5280,7 +5283,6 @@ add list=sunube-blacklist address=177.84.248.34
 add list=sunube-blacklist address=177.84.248.46
 add list=sunube-blacklist address=177.84.248.56
 add list=sunube-blacklist address=206.1.95.178
-add list=sunube-blacklist address=23.121.119.43
 add list=sunube-blacklist address=45.236.96.196
 add list=sunube-blacklist address=45.236.96.84
 add list=sunube-blacklist address=46.205.214.91
@@ -5506,6 +5508,7 @@ add list=sunube-blacklist address=177.84.248.6
 add list=sunube-blacklist address=178.239.7.82
 add list=sunube-blacklist address=190.115.198.215
 add list=sunube-blacklist address=201.219.248.176
+add list=sunube-blacklist address=202.189.9.227
 add list=sunube-blacklist address=206.1.95.20
 add list=sunube-blacklist address=207.180.231.209
 add list=sunube-blacklist address=218.66.171.164
@@ -5575,6 +5578,7 @@ add list=sunube-blacklist address=138.59.84.98
 add list=sunube-blacklist address=138.99.132.178
 add list=sunube-blacklist address=154.215.95.146
 add list=sunube-blacklist address=154.215.95.147
+add list=sunube-blacklist address=154.215.95.148
 add list=sunube-blacklist address=156.241.153.251
 add list=sunube-blacklist address=177.39.10.121
 add list=sunube-blacklist address=185.175.104.173
@@ -5645,7 +5649,6 @@ add list=sunube-blacklist address=154.215.26.131
 add list=sunube-blacklist address=154.215.26.142
 add list=sunube-blacklist address=154.215.26.154
 add list=sunube-blacklist address=154.215.29.140
-add list=sunube-blacklist address=154.215.95.148
 add list=sunube-blacklist address=154.22.195.101
 add list=sunube-blacklist address=154.220.53.74
 add list=sunube-blacklist address=154.220.53.75
@@ -5659,15 +5662,18 @@ add list=sunube-blacklist address=178.36.204.190
 add list=sunube-blacklist address=188.146.96.48
 add list=sunube-blacklist address=192.151.234.230
 add list=sunube-blacklist address=192.151.234.231
+add list=sunube-blacklist address=192.151.234.232
 add list=sunube-blacklist address=195.164.181.13
 add list=sunube-blacklist address=201.219.248.160
 add list=sunube-blacklist address=201.219.248.212
 add list=sunube-blacklist address=37.47.150.143
 add list=sunube-blacklist address=38.55.177.246
+add list=sunube-blacklist address=38.55.177.247
 add list=sunube-blacklist address=38.6.240.91
 add list=sunube-blacklist address=38.6.247.82
 add list=sunube-blacklist address=45.194.206.243
 add list=sunube-blacklist address=45.199.16.85
+add list=sunube-blacklist address=45.199.16.88
 add list=sunube-blacklist address=45.226.108.144
 add list=sunube-blacklist address=45.226.108.200
 add list=sunube-blacklist address=45.226.108.208
@@ -5731,10 +5737,10 @@ add list=sunube-blacklist address=160.121.119.37
 add list=sunube-blacklist address=160.121.119.38
 add list=sunube-blacklist address=160.121.119.40
 add list=sunube-blacklist address=160.121.119.41
+add list=sunube-blacklist address=160.121.51.209
 add list=sunube-blacklist address=160.124.77.148
 add list=sunube-blacklist address=160.124.77.149
 add list=sunube-blacklist address=176.29.203.24
-add list=sunube-blacklist address=192.151.234.232
 add list=sunube-blacklist address=193.24.244.17
 add list=sunube-blacklist address=201.219.248.114
 add list=sunube-blacklist address=201.219.248.190
@@ -5744,12 +5750,10 @@ add list=sunube-blacklist address=201.219.248.224
 add list=sunube-blacklist address=201.219.248.228
 add list=sunube-blacklist address=201.219.248.60
 add list=sunube-blacklist address=206.1.95.42
-add list=sunube-blacklist address=38.55.177.247
 add list=sunube-blacklist address=38.59.14.80
 add list=sunube-blacklist address=38.6.213.124
 add list=sunube-blacklist address=45.199.16.86
 add list=sunube-blacklist address=45.199.16.87
-add list=sunube-blacklist address=45.199.16.88
 add list=sunube-blacklist address=45.199.16.89
 add list=sunube-blacklist address=45.226.108.104
 add list=sunube-blacklist address=45.226.108.106
@@ -5806,7 +5810,6 @@ add list=sunube-blacklist address=89.64.13.225
 add list=sunube-blacklist address=89.64.52.218
 add list=sunube-blacklist address=138.59.84.232
 add list=sunube-blacklist address=138.99.132.62
-add list=sunube-blacklist address=160.121.51.209
 add list=sunube-blacklist address=160.124.1.155
 add list=sunube-blacklist address=160.124.77.147
 add list=sunube-blacklist address=176.111.174.30
@@ -8625,6 +8628,7 @@ add list=sunube-blacklist address=154.218.116.30
 add list=sunube-blacklist address=154.218.93.72
 add list=sunube-blacklist address=154.220.29.75
 add list=sunube-blacklist address=154.31.18.94
+add list=sunube-blacklist address=154.36.219.58
 add list=sunube-blacklist address=154.55.135.166
 add list=sunube-blacklist address=154.55.135.221
 add list=sunube-blacklist address=154.93.178.211
@@ -8648,6 +8652,7 @@ add list=sunube-blacklist address=156.235.110.203
 add list=sunube-blacklist address=156.235.110.222
 add list=sunube-blacklist address=156.235.204.83
 add list=sunube-blacklist address=156.235.234.244
+add list=sunube-blacklist address=156.235.234.247
 add list=sunube-blacklist address=168.206.200.22
 add list=sunube-blacklist address=172.120.237.14
 add list=sunube-blacklist address=172.120.237.9
@@ -8862,7 +8867,6 @@ add list=sunube-blacklist address=154.195.70.109
 add list=sunube-blacklist address=154.212.125.124
 add list=sunube-blacklist address=154.212.125.125
 add list=sunube-blacklist address=154.215.29.139
-add list=sunube-blacklist address=154.36.219.58
 add list=sunube-blacklist address=154.36.221.37
 add list=sunube-blacklist address=154.36.223.41
 add list=sunube-blacklist address=154.36.223.51
@@ -8915,7 +8919,6 @@ add list=sunube-blacklist address=154.9.235.84
 add list=sunube-blacklist address=154.9.235.98
 add list=sunube-blacklist address=156.232.153.132
 add list=sunube-blacklist address=156.232.153.133
-add list=sunube-blacklist address=156.235.234.247
 add list=sunube-blacklist address=156.237.128.117
 add list=sunube-blacklist address=156.237.148.208
 add list=sunube-blacklist address=156.254.142.49
@@ -12076,6 +12079,7 @@ add list=sunube-blacklist address=121.56.26.43
 add list=sunube-blacklist address=123.235.80.122
 add list=sunube-blacklist address=123.244.89.244
 add list=sunube-blacklist address=124.160.236.254
+add list=sunube-blacklist address=124.227.31.225
 add list=sunube-blacklist address=125.84.239.1
 add list=sunube-blacklist address=128.106.131.154
 add list=sunube-blacklist address=139.162.77.133
@@ -12316,7 +12320,6 @@ add list=sunube-blacklist address=123.145.26.86
 add list=sunube-blacklist address=123.153.98.118
 add list=sunube-blacklist address=123.245.24.23
 add list=sunube-blacklist address=124.133.213.221
-add list=sunube-blacklist address=124.227.31.225
 add list=sunube-blacklist address=125.124.71.148
 add list=sunube-blacklist address=125.72.100.110
 add list=sunube-blacklist address=126.214.36.2
@@ -13184,6 +13187,7 @@ add list=sunube-blacklist address=42.52.5.191
 add list=sunube-blacklist address=42.63.224.12
 add list=sunube-blacklist address=43.129.39.141
 add list=sunube-blacklist address=43.136.96.91
+add list=sunube-blacklist address=45.185.0.113
 add list=sunube-blacklist address=45.243.78.244
 add list=sunube-blacklist address=45.33.46.249
 add list=sunube-blacklist address=45.33.68.120
@@ -13195,7 +13199,6 @@ add list=sunube-blacklist address=45.79.144.216
 add list=sunube-blacklist address=45.79.82.114
 add list=sunube-blacklist address=45.79.98.252
 add list=sunube-blacklist address=46.105.132.34
-add list=sunube-blacklist address=46.174.48.116
 add list=sunube-blacklist address=46.19.139.234
 add list=sunube-blacklist address=47.236.234.192
 add list=sunube-blacklist address=47.90.254.226
@@ -13335,6 +13338,7 @@ add list=sunube-blacklist address=103.224.92.90
 add list=sunube-blacklist address=103.228.37.94
 add list=sunube-blacklist address=103.252.117.228
 add list=sunube-blacklist address=104.168.24.228
+add list=sunube-blacklist address=104.184.113.90
 add list=sunube-blacklist address=104.199.193.129
 add list=sunube-blacklist address=104.236.29.162
 add list=sunube-blacklist address=107.151.182.50
